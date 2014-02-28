@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_sensor" >
+        <ListPreference
+                android:key="prefSensor"
+                android:entries="@array/sensors_labels"
+                android:entryValues="@array/sensors_values"
+                android:summary="@string/pref_sensors_summary"
+                android:title="@string/pref_set_sensor"
+                />
+    </PreferenceCategory>
+</PreferenceScreen>

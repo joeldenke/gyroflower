@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+     android:id="@+id/wither">
+    <item android:drawable="@drawable/flower_wither_1" android:duration="300" />
+    <item android:drawable="@drawable/flower_wither_2" android:duration="300" />
+    <item android:drawable="@drawable/flower_wither_3" android:duration="300" />
+    <item android:drawable="@drawable/flower_wither_4" android:duration="300" />
+    <item android:drawable="@drawable/flower_wither_5" android:duration="300" />
+    <item android:drawable="@drawable/flower_wither_6" android:duration="300" />
+    <item android:drawable="@drawable/flower_wither_7" android:duration="300" />
+    <item android:drawable="@drawable/flower_wither_8" android:duration="300" />
+    <item android:drawable="@drawable/flower_wither_9" android:duration="300" />
+</animation-list>
+

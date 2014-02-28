@@ -1,0 +1,32 @@
+<resources>
+    <string name="title">Bluetooth Nonin</string>
+    <string name="preference">Preferences</string>
+    <string name="mainTitle">GyroFlower</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_name">Device orientation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="azimut">Azimut</string>
+    <string name="pitch">Pitch</string>
+    <string name="roll">Roll</string>
+    <string name="pref_storage">Storage</string>
+    <string name="pref_filename">Filename</string>
+    <string name="pref_server">Server</string>
+    <string name="pref_server_ip">Server IP</string>
+    <string name="pref_server_port">Server Port</string>
+    <string name="pref_measurement">Measurement</string>
+    <string name="pref_set_sensor">Set sensor</string>
+    <string name="pref_sensor">Sensors</string>
+    <string name="pref_sensors_summary">Choose Sensor</string>
+    <string-array name="sensors_labels">
+        <item>Gyrometer</item>
+        <item>Accelerometer</item>
+        <item>Magnetic field</item>
+    </string-array>
+    <string-array name="sensors_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>
